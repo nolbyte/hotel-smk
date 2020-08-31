@@ -1,6 +1,7 @@
 # hotel-smk
 Aplikasi Hotel untuk praktikum SMK Perhotelan
-Fitur:
+
+Fitur umum:
 1. PHP Native dengan PDO Query
 2. Database MySQL
 3. Password enkripsi dengan BCRYPT
