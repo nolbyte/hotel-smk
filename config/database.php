@@ -1,9 +1,9 @@
 <?php
 
 	$host="localhost"; // Host name 
-	$username="mmc-mhd"; // Mysql username 
-	$password="harenong007$$"; // Mysql password 
-	$db_name="mahadhika3_hotel"; // Database name 
+	$username="root"; // Mysql username 
+	$password="root"; // Mysql password 
+	$db_name="hotel"; // Database name 
 	
 	// Connect to server and select databse.
 	try
